@@ -41,7 +41,8 @@ Serveur :
                       chat,
                       jet de dés,
                       etc..
-                      )
+                      );
+
 Client :
   - Interface de connection
   - Interface de jeu  (
