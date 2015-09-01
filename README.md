@@ -5,6 +5,7 @@ But :
 Fournir une solution client-serveur permettant à un mj et à une compagnie d'aventuriers de faire une partie d'un jeu de rôle quelconque.
 
 Fonctionnalités :
+
 Serveur :
   - Editeur de scenario (
                         map [
@@ -28,7 +29,7 @@ Serveur :
                             etc..
                             ]
                         Events [
-                            délimiteur de zone (invisible pour joueur mais visible pour mj avec activation manuelle),
+                            délimiteur de zone,
                             effets de l'events (actions préprogrammées et script),
                             durée (0 - infini, le reste en secondes)
                             ]
